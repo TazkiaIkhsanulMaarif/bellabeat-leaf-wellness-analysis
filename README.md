@@ -15,11 +15,12 @@
  
 | Resource | Link |
 |---|---|
-| Interactive Dashboard (Excel) | [`DailySummary_cleaned.xlsx`](./DailySummary_cleaned.xlsx) |
+| Interactive Dashboard (Excel) | [`DailySummary_cleaned.xlsx`](https://docs.google.com/spreadsheets/d/1levI-4P-6wO4BQdfA7uZCGNAotb3Sysj/edit?usp=sharing&ouid=111398435741608142577&rtpof=true&sd=true) |
 | Original Case Study Brief | [`Case_Study_2_How_can_a_wellness_company_play_it_smart.pdf`](https://drive.google.com/file/d/1V3SDVTG4xwUdtZvpch2ky7sP4_qprNxZ/view?usp=sharing) |
 | Dataset Source | [FitBit Fitness Tracker Data (Kaggle)](https://www.kaggle.com/datasets/arashnic/fitbit) |
  
 ---
+<img width="395" height="440" alt="Screenshot 2026-07-03 185231" src="https://github.com/user-attachments/assets/e4d54815-f17f-4639-b0d2-ad55c162d386" />
 
 ## 📌 Table of Contents
 
