@@ -16,8 +16,7 @@
 | Resource | Link |
 |---|---|
 | Interactive Dashboard (Excel) | [`DailySummary_cleaned.xlsx`](./DailySummary_cleaned.xlsx) |
-| Full Written Report (PDF) | [`Bellabeat_Leaf_Case_Study_Report.pdf`](./Bellabeat_Leaf_Case_Study_Report.pdf) |
-| Original Case Study Brief | [`Case_Study_2_How_can_a_wellness_company_play_it_smart.pdf`](./Case_Study_2_How_can_a_wellness_company_play_it_smart.pdf) |
+| Original Case Study Brief | [`Case_Study_2_How_can_a_wellness_company_play_it_smart.pdf`](https://drive.google.com/file/d/1V3SDVTG4xwUdtZvpch2ky7sP4_qprNxZ/view?usp=sharing) |
 | Dataset Source | [FitBit Fitness Tracker Data (Kaggle)](https://www.kaggle.com/datasets/arashnic/fitbit) |
  
 ---
